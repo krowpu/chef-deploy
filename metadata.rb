@@ -1,5 +1,5 @@
 name 'deploy'
-description 'Deployment user'
+description 'Prepare AWS EC2 instance for capistrano deployment'
 license 'MIT'
 
 maintainer 'krowpu'
