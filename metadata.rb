@@ -9,3 +9,5 @@ source_url 'https://github.com/krowpu/chef-deploy'
 issues_url 'https://github.com/krowpu/chef-deploy/issues'
 
 platform 'ubuntu', '= 16.04'
+
+depends 'dist-update'
